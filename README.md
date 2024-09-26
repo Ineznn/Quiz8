@@ -10,3 +10,13 @@ I have chosen two stills from a film directed by Wong Kar-wai, *Chungking Expres
 ![A still from a film](https://bkimg.cdn.bcebos.com/pic/e1fe9925bc315c604505404a81b1cb1348547786)
 
 - Part 2
+
+
+
+![A still for function noise](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN3mscYSKsggEF668uAEmu7sQTUeiLvczszA6jNP9b0I0LrXCGWPx5VCLjaW2DzVyI1To&usqp=CAU)
+
+[Link of function noise](https://p5js.org/reference/p5/noise/)
+
+![A GIF for function shininess](https://media.geeksforgeeks.org/wp-content/uploads/20200405225840/shininess-slider-min.gif)
+
+[Link of function shininess](https://p5js.org/reference/p5/shininess/)
